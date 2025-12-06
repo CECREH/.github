@@ -32,7 +32,7 @@ Our work combines **data-driven analysis**, **human-centered research**, and **c
 
 ## Mission and core pillars
 
-CECREH’s mission is to make **resilience and equity central to housing recovery strategies** in the United States and beyond. Our efforts are organized around three core pillars:
+CECREH’s mission is to make resilience central to housing recovery strategies in the United States and beyond. Our efforts are organized around three core pillars:
 
 1. **Assess climate risks for underserved communities**  
    - Characterize historic and future hazard exposure  
